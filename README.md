@@ -18,7 +18,7 @@ Instrucciones de uso:
 2. Utiliza los filtros disponibles (por año, tipo de vehículo, etc.) para explorar los datos.
 3. Observa cómo cambian los gráficos según tus selecciones.
 
-
+Ejemplo, caputras de pantalla de la aplicación:
 ![image](https://github.com/user-attachments/assets/00d88134-0723-486e-930d-f6a4fa123348)
 ![image](https://github.com/user-attachments/assets/52fc140d-8ecf-48ab-a6f4-41531b4441c3)
 ![image](https://github.com/user-attachments/assets/54571eb2-dbdd-4e8c-b34a-6fc68b307277)
