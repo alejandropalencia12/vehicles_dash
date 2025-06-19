@@ -8,3 +8,5 @@ La idea inicio con la creacion de Histogramas y graficos de disperción,
 Sin Embargo, en las instrucciones del proyecto, se ejemplifica un video, de los botones relacionados a la aplicación web, que llamaron fuertemente la atención, por tanto se decidio incluir, otros lementos que sirven para una mejor observacion de elementos de esta aplicación web, que se tomaron como base del video ejemplo,
 con la ayuda de internet e IA, se lograron agregar estos elementos adicionales.
 
+Este es el link para lanzar la aplicación: https://vehicles-dash.onrender.com
+
