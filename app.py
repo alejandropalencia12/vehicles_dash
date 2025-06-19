@@ -98,7 +98,7 @@ car_data_modern = car_data[car_data['model_year']>= 2010]
 #Agrupando los datos por año
 gp_by_year= car_data_modern.groupby('model_year')['model'].size().reset_index()
 
-st.header('Analicemos modelos de carros modernos')
+st.header('Modelos mas recientes')
 
 bar_button = st.button('Construir un diagrama de barras para los modelos de carros')
 
